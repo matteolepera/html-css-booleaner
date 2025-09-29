@@ -2,6 +2,11 @@ body,
 figure{
     margin: 0px;
 }
+
+.txt-gray{
+    color: gray;
+}
+
 #logo{
     width: 100px;
     width: 200px;
@@ -16,7 +21,6 @@ figure{
 }
 
 .written-by{
-    color: gray;
     font-style: normal;
 }
 
@@ -40,4 +44,21 @@ td{
 
 .bg-row{
     background-color: #B1E5F2;
+}
+
+.block-monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    color:#fff;
+    padding-left: 7px;
+}
+
+.block-graph{
+    background-image: url(../img/graph.jpg);
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    color:#fff;
 }
