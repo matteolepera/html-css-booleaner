@@ -6,6 +6,11 @@ figure{
 .txt-gray{
     color: gray;
 }
+a{
+    text-decoration: none;
+    color: #27ACE6;
+
+}
 
 #logo{
     width: 100px;
@@ -22,7 +27,14 @@ figure{
 
 .written-by{
     font-style: normal;
+    
 }
+
+figcaption{
+    font-size: small;
+
+}
+
 
 table{
 border-collapse: collapse;
