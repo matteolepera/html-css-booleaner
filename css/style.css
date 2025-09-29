@@ -19,3 +19,25 @@ figure{
     color: gray;
     font-style: normal;
 }
+
+table{
+border-collapse: collapse;
+    width: 100%;
+    margin-left: 3px;
+
+}
+th{
+    background-color: #1FA9E5;
+    color: #fff;
+    text-align: left;
+    padding-right: 100px;
+}
+
+td{
+    text-align: left;
+    padding: 10px;
+}
+
+.bg-row{
+    background-color: #B1E5F2;
+}
