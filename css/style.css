@@ -1,3 +1,21 @@
-body{
-    background-color: red;
+body,
+figure{
+    margin: 0px;
+}
+#logo{
+    width: 100px;
+    width: 200px;
+    margin-top: 45px;
+}
+
+.header-pattern{
+    background-color: #4EA0FF;   
+    height: 100px;
+    background-image: url(../img/pattern.png);
+    background-size: 23%;
+}
+
+.written-by{
+    color: gray;
+    font-style: normal;
 }
